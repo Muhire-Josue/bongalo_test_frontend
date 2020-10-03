@@ -1,0 +1,30 @@
+.flex {
+	display: flex;
+}
+.hide {
+	display: none;
+}
+.block {
+	display: block;
+}
+.inline-block {
+	display: inline-block;
+}
+.inline {
+	display: inline;
+}
+.flex-row {
+	flex-direction: row;
+}
+.flex-row-wrap {
+	flex-flow: row wrap;
+}
+.flex-column {
+	flex-direction: column;
+}
+.flex-column-wrap {
+	flex-flow: column wrap;
+}
+.flex-column-reverse {
+	flex-direction: column-reverse;
+}

@@ -1,0 +1,34 @@
+.center {
+  margin: 0 auto;
+  display: block;
+}
+.left-align {
+  text-align: left;
+}
+.center-align {
+  text-align: center;
+}
+.right-align {
+  text-align: right;
+}
+.no-overflow {
+  overflow: hidden;
+}
+.justify-content-space-between {
+  justify-content: space-between;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.justify-content-right {
+  justify-content: flex-end;
+}
+.align-items-top {
+  align-items: flex-start;
+}
+.align-items-center {
+  align-items: center;
+}
+.align-items-baseline {
+  align-items: baseline;
+}
